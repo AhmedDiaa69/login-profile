@@ -28,3 +28,4 @@ document.getElementById("form").addEventListener("submit", (event) => {
   window.location.href = "../profile/profile.html";
 });
 
+console.log("v1.0");
